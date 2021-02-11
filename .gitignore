@@ -178,3 +178,6 @@ NVCapturedData
 # Ignore VS / VS Code settings directory
 .vs
 .vscode
+
+FreeFurniturePack/
+MS_FurnitureT/
